@@ -1,0 +1,28 @@
+name: engky
+description: "A new Flutter project."
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_tts: ^4.2.0
+  speech_to_text: ^7.0.0
+  shared_preferences: ^2.0.18
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  assets:
+    - assets/vocabulary.json  
+  uses-material-design: true

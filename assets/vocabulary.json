@@ -1,0 +1,84 @@
+{
+  "words": [
+    {
+      "word": "bag",
+      "meaning": "กระเป๋า"
+    },
+    {
+      "word": "cat",
+      "meaning": "แมว"
+    },
+    {
+      "word": "dog",
+      "meaning": "สุนัข"
+    },
+    {
+      "word": "pen",
+      "meaning": "ปากกา"
+    },
+    {
+      "word": "book",
+      "meaning": "หนังสือ"
+    },
+    {
+      "word": "desk",
+      "meaning": "โต๊ะ"
+    },
+    {
+      "word": "milk",
+      "meaning": "นม"
+    },
+    {
+      "word": "egg",
+      "meaning": "ไข่"
+    },
+    {
+      "word": "house",
+      "meaning": "บ้าน"
+    },
+    {
+      "word": "car",
+      "meaning": "รถยนต์"
+    },
+    {
+      "word": "sun",
+      "meaning": "พระอาทิตย์"
+    },
+    {
+      "word": "moon",
+      "meaning": "พระจันทร์"
+    },
+    {
+      "word": "tree",
+      "meaning": "ต้นไม้"
+    },
+    {
+      "word": "fish",
+      "meaning": "ปลา"
+    },
+    {
+      "word": "bird",
+      "meaning": "นก"
+    },
+    {
+      "word": "hand",
+      "meaning": "มือ"
+    },
+    {
+      "word": "foot",
+      "meaning": "เท้า"
+    },
+    {
+      "word": "eye",
+      "meaning": "ตา"
+    },
+    {
+      "word": "nose",
+      "meaning": "จมูก"
+    },
+    {
+      "word": "ear",
+      "meaning": "หู"
+    }
+  ]
+}
