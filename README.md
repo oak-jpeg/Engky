@@ -61,11 +61,11 @@ cd engky
 flutter pub get
 ```
 
-4. สร้างโฟลเดอร์ assets และเพิ่มไฟล์ vocabulary.json:
+4. เข้าไปที่โฟลเดอร์ assets และแก้ไขไฟล์ vocabulary.json:
 
 ```bash
-mkdir -p assets
-cp vocabulary.json assets/
+cd assets
+แก้ไขคำศัพท์/เพิ่ม ในไฟล์ vocabulary.json
 ```
 
 5. แก้ไขไฟล์ pubspec.yaml เพื่อเพิ่ม assets:
