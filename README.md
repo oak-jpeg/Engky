@@ -17,11 +17,13 @@
   <table>
     <tr>
       <td><img src="assets/screens/main_screen.png" alt="หน้าหลัก" width="250"/></td>
+      <td><img src="assets/screens/time_screen.png" alt="นับเวลา" width="250"/></td>
       <td><img src="assets/screens/correct_answer.png" alt="คำตอบถูก" width="250"/></td>
       <td><img src="assets/screens/wrong_answer.png" alt="คำตอบผิด" width="250"/></td>
     </tr>
     <tr>
       <td align="center">หน้าหลัก</td>
+      <td align="center">การนับเวลา</td>
       <td align="center">คำตอบถูก</td>
       <td align="center">คำตอบผิด</td>
     </tr>
