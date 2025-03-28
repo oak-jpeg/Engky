@@ -16,10 +16,10 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="assets/screens/main_screen.png" alt="หน้าหลัก" width="250"/></td>
-      <td><img src="assets/screens/time_screen.png" alt="นับเวลา" width="250"/></td>
-      <td><img src="assets/screens/correct_answer.png" alt="คำตอบถูก" width="250"/></td>
-      <td><img src="assets/screens/wrong_answer.png" alt="คำตอบผิด" width="250"/></td>
+      <td><img src="screenshots/main_screen.png" alt="หน้าหลัก" width="250"/></td>
+      <td><img src="screenshots/time_screen.png" alt="นับเวลา" width="250"/></td>
+      <td><img src="screenshots/correct_answer.png" alt="คำตอบถูก" width="250"/></td>
+      <td><img src="screenshots/wrong_answer.png" alt="คำตอบผิด" width="250"/></td>
     </tr>
     <tr>
       <td align="center">หน้าหลัก</td>
