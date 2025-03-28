@@ -202,5 +202,5 @@ Future<void> _listen() async {
 ---
 
 <div align="center">
-Made with ❤️ for learning English
+Thank you for watching and feedback.
 </div>
